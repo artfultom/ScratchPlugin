@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.github.artfultom.scratch.ScratchPlugin</id>
     <name>ScratchPlugin</name>
-    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+    <vendor email="artfultom@gmail.com" url="https://github.com/artfultom">Andrey Vasilyev</vendor>
 
     <description><![CDATA[
     Enter short description for your plugin here.<br>
